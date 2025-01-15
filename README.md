@@ -66,8 +66,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 For any inquiries or suggestions, feel free to reach out:
 
 - **Creator**: Aniruddh Joshi
-- **Email**: [YourEmail@example.com](aniruddh.joshi2904@gmail.com)
-- **Website**: [CodeVamp Compiler](https://codevamp-compiler.netlify.app/)
+- **Email**: [aniruddh.joshi2904@gmail.com](aniruddh.joshi2904@gmail.com)
+- **Website**: [[CodeVamp Compiler](https://codevamp-compiler.netlify.app/)](https://codevamp-compiler.netlify.app/)
 
 ---
 
