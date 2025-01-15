@@ -20,13 +20,13 @@ A sleek, self-made online compiler designed to simplify and enhance your coding 
 ### 1. **Home Page**
 A beautifully designed landing page that welcomes users to the compiler.
 
-![Image 1](img1.png) ![Image 2](img2.png)
+![Image 1](1img.png) ![Image 2](2img.png)
 
 
 ### 2. **Compiler Interface**
 An intuitive editor with a console for compiling and running code.
 
-![Compiler Interface](img3.png)
+![Compiler Interface](3img.png)
 
 ---
 
